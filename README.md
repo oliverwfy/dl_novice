@@ -1,2 +1,2 @@
-# DL_novice
-Great projects for beginner in deep learning field
+# DL_toturial
+Great projects for starting at deep learning
