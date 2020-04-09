@@ -1,2 +1,2 @@
 # DL_toturial
-Great projects for starting at deep learning
+Great projects for starting deep learning
